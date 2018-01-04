@@ -1,0 +1,22 @@
+{
+  "name": "NSBComponents",
+  "version": "0.1.0",
+  "summary": "A short description of NSBComponents.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Codenator81/NSBComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Codenator81": "codenator81@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Codenator81/NSBComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSBComponents/Classes/**/*"
+}

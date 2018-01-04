@@ -1,0 +1,16 @@
+PODS:
+  - NSBComponents (0.1.0)
+
+DEPENDENCIES:
+  - NSBComponents (from `../`)
+
+EXTERNAL SOURCES:
+  NSBComponents:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NSBComponents: 391f4167a5ea078a6fa624e3276aa7f717505753
+
+PODFILE CHECKSUM: 47020577a9df44b6723e3902fc286a1481a9f1c3
+
+COCOAPODS: 1.3.1
