@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSBComponents_Example' do
+  pod 'NSBComponents', :path => '../'
+
+  target 'NSBComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
